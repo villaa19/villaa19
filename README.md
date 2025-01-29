@@ -20,5 +20,5 @@
 ### Stats
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=villaa19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="villaa19's GitHub stats" height="229" />
+  <img src="https://github-readme-stats.vercel.app/api?username=villaa19&show_icons=true&hide=&count_private=true&theme=catppuccin_mocha&hide_border=true&show_icons=true" alt="villaa19's GitHub stats" height="229" />
 </div>
