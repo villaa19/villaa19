@@ -16,9 +16,3 @@
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
   <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
 </div>
-
-### Stats
-
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=villaa19&show_icons=true&hide=&count_private=true&theme=catppuccin_mocha&hide_border=true&show_icons=true" alt="villaa19's GitHub stats" height="229" />
-</div>
